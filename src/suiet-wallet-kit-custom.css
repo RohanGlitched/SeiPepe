@@ -1,0 +1,16 @@
+:root {
+    --wkit-accent-hs: 200, 100%, 5%;
+    --wkit-on-accent-rgb: 255, 255, 255;
+    --wkit-bg-rgb: 39, 39, 39;
+    --wkit-on-bg-rgb: 255, 255, 255;
+    --wkit-font-family: 'Inter', sans-serif;
+    --wkit-font-family-mono: 'Inter', monospace;
+    --wkit-font-size-large: 12px;
+    --wkit-font-size-medium: 14px;
+    --wkit-font-size-small: 0.8vw;
+    --wkit-line-height-large: 20px;
+    --wkit-line-height-medium: 20px;
+    --wkit-line-height-small: 10px;
+    --wkit-button-width: 15vw;
+    --wkit-border-radius: 50px;
+  }
