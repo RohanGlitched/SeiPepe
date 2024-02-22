@@ -94,7 +94,7 @@ function TypeWriter() {
                         typewriter.typeString('<span class = "text-1">Made By PEPE</span>')
                             .pauseFor(2000)
                             .deleteAll()
-                            .typeString('<span class = "text-2">Mew Mew!</span>')
+                            .typeString('<span class = "text-2">Ribbit Ribbit!</span>')
                             .pauseFor(2000)
                             .deleteAll()
                             .start();
@@ -102,7 +102,7 @@ function TypeWriter() {
                 />
             </Title1>
             <SubTitle>
-                Built on <span class='sui'> Sui </span>
+                Built on <span class='sui'> $SEI </span>
             </SubTitle>
         </>
     );

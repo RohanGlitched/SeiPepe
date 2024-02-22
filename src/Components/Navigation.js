@@ -251,9 +251,6 @@ const Navigation = () => {
                             </ControlledMenu>
                         </BigMenuItem1>
                         <BigMenuItem1><a><Btn>
-                            Roadmap
-                        </Btn></a></BigMenuItem1>
-                        <BigMenuItem1><a><Btn>
                             Whitepaper
                         </Btn></a></BigMenuItem1>
                         <BigMenuItem1><a href='/tools' ref={ref1} className="btn" onPointerEnter={() => {

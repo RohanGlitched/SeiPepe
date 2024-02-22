@@ -174,16 +174,6 @@ function Footer() {
                         </a>
                     </IconsList>
                 </Left>
-                <MenuItems>
-                    <Item>
-                        <a href = "/">
-                            Home
-                        </a>
-                    </Item>
-                    <Item onClick={() => scrollTo("tools")}>
-                    </Item>
-                    <Item> <a>Roadmap</a></Item>
-                </MenuItems>
             </Container>
             <Bottom>
                 <span>
