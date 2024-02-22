@@ -115,7 +115,7 @@ function Faq() {
                     </Title>
                     <Accordion title={"How are you going to develop further?"} children = {"Only PEPE knows about that!"} />
                     <Accordion title={"Why on SEI?"} children = {"SEI needs PEPE thats why!"}/>
-                    <Accordion title={"What Supply?"} children = {"This will be 1000 unique nft"}/>
+                    <Accordion title={"What Supply?"} children = {"This will be 969 unique nft"}/>
                     <Accordion title={"How to get PEPElist?"} children = {"Follow the information in our social networks. There will be many different ways"}/>
                 </Box>
             </Container>
