@@ -152,7 +152,7 @@ function About() {
                     </Title>
                     <SubText>
                      Pepe set to conquer the $SEI scene ! A community who gives back and helps people making $ 
-                    {'\n\n'}Beyond our stunning 969 - piece NFT collection, we're thrilled to introduce the $SEIPEPE token—a gateway to a revolutionary experience. {'\n\n'}Embracing innovation, we're exploring the possibility of launching a casino on our platform with a groundbreaking 0% house edge.{'\n\n'}Sei Pepe is not just an NFT collection; it's a dynamic ecosystem where creativity, blockchain, and gaming unite to create an unparalleled experience for our community. Join us as we embark on this journey, shaping the future of digital art and entertainment.
+                    {'\n\n'}Beyond our stunning 969 - piece NFT collection, we're thrilled to announce we will give holders back 50% Royalties from the Secondary the $SEIPEPE token—a gateway to a revolutionary experience. {'\n\n'}Embracing innovation, we're exploring the possibility of launching a casino on our platform with a groundbreaking 0% house edge.{'\n\n'}Sei Pepe is not just an NFT collection; it's a dynamic ecosystem where creativity, blockchain, and gaming unite to create an unparalleled experience for our community. Join us as we embark on this journey, shaping the future of digital art and entertainment.
                     </SubText>
                     <SubTextLight>
                     </SubTextLight>
