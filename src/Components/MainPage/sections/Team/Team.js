@@ -104,7 +104,7 @@ function Team() {
                     <RowContainer>
                         <Card link= "https://i.postimg.cc/YS8WGv2n/nfttext-removebg-preview.png" name="Pepe" position="Boss for PEPE" />
                         <Card  link = "https://i.postimg.cc/cHhCk2tF/image.png" name = "MasTer" position = "Developer"/>
-                        <Card  link = "https://i.postimg.cc/hPDGtwXq/image.png" name = "Billi" position = "Community Manager"/>
+                        <Card  link = "https://i.postimg.cc/vZrhgkcR/image.png" name = "Billi" position = "Community Manager"/>
                     </RowContainer>
             </Container>
         </Section>
