@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import logo from './../../../../assets/whitepaper.webp'
+import roadmap from  './roadmap.png'
 
 const Section = styled.section`
     min-height: 100vh;
@@ -29,6 +30,7 @@ const Container = styled.div`
     @media (max-width: 64em) {
         flex-direction: column;
         width: 100%;
+        height:90%;
         border-radius: 0px;
         gap:5vh
     }
@@ -43,8 +45,8 @@ const Box = styled.div`
     justify-content: center;
     align-items: center;
     img{
-        width: 70%;
-        height: auto;
+        width: 150%;
+        height: 150%;
         @media (max-width: 64em) {
             width: 100%;
         }
@@ -125,17 +127,7 @@ function Whitepaper() {
             </MainTitle>
             <Container>
                 <Box>
-                    <img src={logo} alt="logo" />
-                </Box>
-                <Box>
-                    <Title>
-                        What is PEPE Planning?
-                    </Title>
-                        <Btn>
-                            <a>
-                            Coming Soon
-                            </a>
-                        </Btn>
+                    <img src={roadmap}  />
                 </Box>
             </Container>
         </Section>
